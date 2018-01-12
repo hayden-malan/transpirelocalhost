@@ -1,4 +1,2 @@
 # transpire
-# transpire
-
-A new project to provide resources for trans people
+This is a project aimed to provide resources for trans people and their loved ones. 
