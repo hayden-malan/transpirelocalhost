@@ -1,3 +1,97 @@
-body {
-  color:blue;
+.spare {
+    outline: 1px solid red !important;
+}
+
+ body {
+   background-color:#91DDE7;
+    background-repeat: repeat;  background-attachment: fixed;
+    background-image: url(https://i.pinimg.com/736x/b2/f4/14/b2f414d6952d7359a838b70f757e31bc--favorite-things-wallpapers.jpg);
+  }
+/* https://www.sculpteo.com/blog/wp-content/uploads/2015/12/cover-for-ebook-article.jpg */
+/* https://data.whicdn.com/images/61582330/large.jpg */
+ .logo {
+    max-height: 8.56em;
+  }
+  
+  .articleimg {
+      max-width: 30em;    
+  }
+  .articleimgvert {
+    max-width: 30em;
+    max-height: 26.5em;    
+}
+
+
+  h1 {
+      padding-top:4rem;
+      padding-left:2rem;
+  }
+
+  h4 {
+    padding-left:1rem;
+}
+
+.nav{
+    padding-top:2rem;
+    padding-left:2rem; 
+}
+
+.footertxt {
+    padding-top:2rem;
+    text-align:center;
+    text-decoration: bold;
+}
+
+/* code {
+    background-color: black;
+} */
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #FFB8EA;
+    color: rgb(39, 40, 47);
+    padding-left: 7px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #FF6DD3;
+}
+
+.container {
+  background-color:rgba(109, 233, 255, 0.56);
 }
